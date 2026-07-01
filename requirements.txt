@@ -1,0 +1,13 @@
+torch
+torchvision
+opencv-python
+numpy
+flask
+fvcore
+iopath
+av
+simplejson
+tqdm
+Pillow
+psutil
+pyyaml
